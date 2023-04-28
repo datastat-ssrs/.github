@@ -1,4 +1,8 @@
-# DATA STAT CENTER  <a href="https://github.com/datastat-ssrs/.github/blob/cce9b7c26ed358589bca3801de848e146b5c7072/Admin/Data-stat_kanan+fikssss.png" align="right" width="70" />
+<img src="https://github.com/datastat-ssrs/.github/blob/4b8fe9ff021baed0e99665ed846f6411e24e6735/Admin/DataStat-SSRS-ipb_Kanan.png" alt="ResearchGate" title="ResearchGate" width="70%" align="right"/>
+<br />
+<br />
+<br />
 <br />
 
+# DATA STAT CENTER
 Data Stat Center is a part of IPB SSRS Association
