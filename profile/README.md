@@ -1,4 +1,4 @@
-# DATA STAT CENTER <a href="https://github.com/datastat-ssrs/.github/blob/71612de86bbcf27eeffb37199f40501994997f37/Admin/DataStat-SSRS-ipb_Kanan.png" align="right" width="40" />
+# DATA STAT CENTER <a href="https://github.com/datastat-ssrs/.github/blob/8b0c7b5ea9df7130e4a629644683fe110ee8fdf9/Admin/Data-stat.png" align="right" width="40" />
 <br />
 <br />
 
