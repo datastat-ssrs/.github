@@ -5,8 +5,14 @@
 <br />
 
 # DATA STAT CENTER
+
 ## Overview
+
+<img src="https://github.com/datastat-ssrs/.github/blob/f483ce17b74a10c011cd7bac04b1452105235786/Admin/Sampul_datastat.png" alt="Data Stat Center" title="Data Stat Center" width="100%" align="right"/>
 Data Stat Center is a part of IPB SSRS Association
+
+
+
 
 ## Team
 
